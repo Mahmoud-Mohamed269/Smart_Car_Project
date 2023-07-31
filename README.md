@@ -1,7 +1,7 @@
 An RC car that can be controlled through three modes:
 1- Manual Bluetooth Control
 2- Obstacle Avoiding
-3- Line Folllower
+3- Line Follower
 
 And the components used for this project are:
 1x Arduino Mega
